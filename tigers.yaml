@@ -1,14 +1,16 @@
 team: Tigers
 
-manager: Deborah
+manager: Thanos
 
-coach: Grace
+coach: Ronan
 
 members:
 - Linda
 - William
 - David
 - Olivia
+- Gamora
+- Nebula
 
 fetch: this
 new: branch
